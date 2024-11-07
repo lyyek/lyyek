@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=lyyek's%20github&fontSize=60&fontAlign=75&fontAlignY=80)
 
-### I'm exploring & gaining experience with the following tools :<br>
+### 🌱 I'm exploring & gaining experience with :<br>
   #### </> Languages<br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
